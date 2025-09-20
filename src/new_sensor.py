@@ -1,0 +1,1 @@
+This is a dummy file for the new sensor type feature.
